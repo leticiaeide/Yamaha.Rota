@@ -1,0 +1,8 @@
+﻿origem;destino;valor
+GUA;BRC;10
+BRC;SCL;5
+GUA;CDG;75
+GUA;SCL;20
+GUA;ORL;56
+ORL;CDG;5
+SCL;ORL;20

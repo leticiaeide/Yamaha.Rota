@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Yamaha.Rota.Data\Yamaha.Rota.Data.csproj" />
+    <ProjectReference Include="..\Yamaha.Rota.Domain\Yamaha.Rota.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
